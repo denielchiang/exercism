@@ -1,23 +1,24 @@
 # My Exercism Homeworks
 
 ## Easy
-[Hello World](hello_word/)
 
-[RNA Transcription](rna-transcription/)
+[Hello World](https://github.com/denielchiang/exercism/tree/master/hello-world)
 
-[Word Count](/word-count)
+[RNA Transcription](https://github.com/denielchiang/exercism/tree/master/rna-transcription)
 
-[Roman Numerals](roman-numerals/)
+[Word Count](https://github.com/denielchiang/exercism/tree/master/word-count)
 
-[Bob](bob/)
+[Roman Numerals](https://github.com/denielchiang/exercism/tree/master/roman-numerals)
 
-[Beer Song](beer-song/)
+[Bob](https://github.com/denielchiang/exercism/tree/master/bob)
+
+[Beer Song](https://github.com/denielchiang/exercism/tree/master/beer-song)
 
 ## Medium
-[Robot Simulator](robot-simulator/)
+[Robot Simulator](https://github.com/denielchiang/exercism/tree/master/robot-simulator)
 
-[List Ops](list-ops/)
+[List Ops](https://github.com/denielchiang/exercism/tree/master/list-ops)
 
-[Markdown](markdown/)
+[Markdown](https://github.com/denielchiang/exercism/tree/master/markdown)
 
 ## Hard
